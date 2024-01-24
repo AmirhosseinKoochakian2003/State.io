@@ -1,4 +1,2 @@
-# project-amirkoochk
-project-amirkoochk created by GitHub Classroom
-amir hossein koochakian 
-400105199
+# State.io
+In this project, i implemented the State.io game using C and SDL.
